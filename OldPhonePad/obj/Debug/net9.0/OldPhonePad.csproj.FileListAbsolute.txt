@@ -1,0 +1,15 @@
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\OldPhonePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\OldPhonePad.AssemblyInfoInputs.cache
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\OldPhonePad.AssemblyInfo.cs
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\OldPhonePad.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\OldPhonePad.sourcelink.json
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\bin\Debug\net9.0\OldPhonePad.exe
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\bin\Debug\net9.0\OldPhonePad.deps.json
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\bin\Debug\net9.0\OldPhonePad.runtimeconfig.json
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\bin\Debug\net9.0\OldPhonePad.dll
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\bin\Debug\net9.0\OldPhonePad.pdb
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\OldPhonePad.dll
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\refint\OldPhonePad.dll
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\OldPhonePad.pdb
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\OldPhonePad.genruntimeconfig.cache
+C:\Users\luisa\Documents\GitHub\OldPhonePad\OldPhonePad\obj\Debug\net9.0\ref\OldPhonePad.dll
