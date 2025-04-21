@@ -3,6 +3,7 @@ public static class OldPhonePadTests
     public static void RunAll()
     {
         Test("555 88 444 7777 0 2 4 88 444 555 2 777#", "LUIS AGUILAR");
+        Test("8 88777444666*664#", "TURING");
         Test("33#", "E");
         Test("227*#", "B");
         Test("4433555 555666#", "HELLO");
@@ -21,7 +22,7 @@ public static class OldPhonePadTests
     {
         var result = OldPhonePadChallenge.OldPhonePad(input);
         if (result == expected){
-            
+
             Console.WriteLine($"TEST Passed: \"{input}\" => \"{result}\"");
 
         } else {
